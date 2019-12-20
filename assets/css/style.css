@@ -32,25 +32,17 @@ figure {
     position: relative;
 }
 
-figcaption {
-    background-color: #4aaaa5;
-    color: #ffffff;
-    text-align: center;
-    position: absolute;
-    bottom: 10%;
-    width: 50%;
-}
-
-/*
 .figure-caption {
     background-color: #4aaaa5;
-    color: #ffffff;
+    color: #ffffff;   
     text-align: center;
     position: absolute;
-    bottom: 10%;
-    width: 50%;
+    bottom: 5%;
+    left: 5%;
+    width: 90%;
+    margin: 0 auto;
+    padding: 0.5em;
 }
-*/
 
 footer {
     background-color: #666666;
